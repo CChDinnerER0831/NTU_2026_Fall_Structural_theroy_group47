@@ -1,0 +1,23 @@
+Program Assignment1 2D Truss
+kN
+m
+
+* NNOD NBC NMAT NSEC ITP NNE IFORCE
+
+
+* COOR (m)
+
+
+* NFIX (u, v)
+
+
+* External Load (kN): Px, Py
+
+
+* IDBC
+
+
+* PROP
+
+
+* SECT

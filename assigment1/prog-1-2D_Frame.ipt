@@ -1,0 +1,24 @@
+Program Assignment1 2D Frame
+kN
+m
+
+* NNOD NBC NMAT NSEC ITP NNE IFORCE
+
+
+* COOR (m)
+
+
+* NFIX (u, v, theta)
+
+
+* External Load (kN): Px, Py, Mz
+
+
+* IDBC
+
+
+* PROP
+
+
+* SECT
+

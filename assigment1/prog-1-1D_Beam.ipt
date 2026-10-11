@@ -1,0 +1,33 @@
+Program Assignment1 1D Beam
+kN
+m
+* NNOD NBC NMAT NSEC ITP NNE IFORCE
+  5    4   1    2    1   2   1
+* COOR (m)
+1   0.
+2   3.
+3   6.
+4   9.
+5   11.
+* NFIX (v, theta)
+1   -1 -1
+2   0  0
+3   -1 0
+4   0  0
+5   0  0
+* External Load (kN, kN-m): Py, Mz
+1   0 0
+2   -40 0
+3   0 0
+4   0 30
+5   -15 0
+* IDBC
+1   1   2   1   1   0
+2   2   3   1   1   0
+3   3   4   1   1   0
+4   4   5   1   2   0
+* PROP
+1 200000000. 0.30 0. 0. 0.
+* SECT
+1   0.02   0.0005 0. 0. 0.
+2   0.02   0.0002 0. 0. 0.
