@@ -1,0 +1,24 @@
+Program Assignment2 2D Frame with an internal hinge
+kN
+m
+
+* NNOD NBC NMAT NSEC ITP NNE IFORCE
+
+
+* COOR (m)
+
+
+* NFIX (u, v, theta)
+
+
+* External Load (kN): Px, Py, Mz
+
+
+* IDBC
+
+
+* PROP
+
+
+* SECT
+
