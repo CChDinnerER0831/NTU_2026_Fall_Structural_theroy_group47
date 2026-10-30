@@ -54,7 +54,7 @@ classdef FRAME26 < handle
 
 ---
 
-## ⚙️ 方法介面與架構 (Methods)
+## 方法介面與架構 (Methods)
 
 ### 公開方法 (Public Methods)
 
@@ -110,8 +110,6 @@ global_F   = model.GLOAD;      % 全域載重向量
 ```
 
 ---
-
-## 📜 版權聲明 (Copyright)
 
 All Rights Reserved © 2026  
 Department of Civil Engineering, National Taiwan University.
